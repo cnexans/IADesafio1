@@ -37,3 +37,10 @@ Hemos entrenado una red neuronal fully conected y comparado su performance con a
 ## Referencias
 
 [[1] OpenAI has published the text-generating AI it said was too dangerous to share](https://www.theverge.com/2019/11/7/20953040/openai-text-generation-ai-gpt-2-full-model-release-1-5b-parameters)
+
+## Equipo
+
+* Alejandro Jait
+* Yeferson Licet
+* David G Nexans
+* Horacio Suarez
